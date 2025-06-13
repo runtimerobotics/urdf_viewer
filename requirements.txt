@@ -1,0 +1,7 @@
+pyqt5
+urdfpy
+trimesh
+pyassimp
+numpy
+pyopengl
+vtk

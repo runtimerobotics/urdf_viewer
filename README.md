@@ -1,7 +1,6 @@
 ![image alt](https://github.com/runtimerobotics/urdf_viewer/blob/main/6.jpg?raw=true)
 ![image_alt](https://github.com/runtimerobotics/urdf_viewer/blob/main/2.jpg?raw=true)
-
-
+![image_alt](https://github.com/runtimerobotics/urdf_viewer/blob/main/3.jpg?raw=true)
 
 # URDF Viewer
 

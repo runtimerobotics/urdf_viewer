@@ -1,3 +1,6 @@
+![image alt](https://github.com/runtimerobotics/urdf_viewer/blob/main/6.jpg?raw=true)
+
+
 # URDF Viewer
 
 **URDF Viewer** is a lightweight desktop application built with **Python**, **PyQt5**, and **OpenGL** for visualizing URDF (Unified Robot Description Format) models. It provides an interactive 3D interface to view robots, explore their structure, and control joint angles.
